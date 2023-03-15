@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-/.constant.js
+./constant.js
 # production
 /build
 
