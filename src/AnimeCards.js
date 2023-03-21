@@ -2,7 +2,7 @@ import axios from "axios";
 import React from "react";
 import { useEffect, useState } from "react";
 import './Anime.scss';
-import { API_KEY } from "./constant";
+import { API_KEY } from "./constantS";
 
 export default function AnimeCards() {
   const [animeList, setAnimeList] = useState([]);
